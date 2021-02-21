@@ -1,0 +1,26 @@
+1. status pada table galang dana -> aktif (belum terpenuhi) / tidak aktif ()
+2. embed maps
+3. table donation
+	a. id AI
+	b. id_intansi
+	c. total target
+	d. sisa total
+	
+4. table donation detail 
+	a. id AI
+	b. id_donatur
+	b. id_donation
+	c. jumlah_masuk
+	d. tanggal
+	e. bukti trf
+	f. bank_id
+
+5. table donatur (org yg donatur)
+	a. id
+	b. nama, email, no telp, alamat, kabupaten, kecamatan, kota, zipcode
+	
+6. table bank (ini milik perusahaan)
+	a. id
+	b. nama_bank
+	c. no_rekening
+
